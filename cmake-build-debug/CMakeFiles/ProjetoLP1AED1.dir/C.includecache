@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/costa/OneDrive/Ambiente de Trabalho/ProjetoLP1AED1/projeto.c
+projeto.h
+C:/Users/costa/OneDrive/Ambiente de Trabalho/ProjetoLP1AED1/projeto.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+C:/Users/costa/OneDrive/Ambiente de Trabalho/ProjetoLP1AED1/projeto.h
+

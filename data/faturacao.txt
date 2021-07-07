@@ -1,0 +1,21 @@
+Relatorio de faturacao do Estudio 34
+Periodo do relatorio: 1/11/2000 - 7/1/2021
+
+ID Evento: 26 | ID Client: 27 | Nome cliente: Tiago Silva | Nome evento: estadia |
+Periodo do evento: 16/10/2020(12.30)-20/10/2020(14.00) | Periodo de analisado: 16/10/2020-20/10/2020 
+Faturacao: 227.50 euros
+
+ID Evento: 25 | ID Client: 30 | Nome cliente: Bruno | Nome evento: estadia |
+Periodo do evento: 1/1/2021(12.30)-30/1/2021(14.00) | Periodo de analisado: 1/1/2021-7/1/2021 
+Faturacao: 382.20 euros
+
+ID Evento: 6 | ID Client: 6 | Nome cliente: Cristiano Ronaldo | Nome evento: estadia |
+Periodo do evento: 30/11/2020(14.00)-12/12/2020(14.00) | Periodo de analisado: 30/11/2020-12/12/2020 
+Faturacao: 637.00 euros
+
+ID Evento: 12 | ID Client: 5 | Nome cliente: Tiago Rodrigues | Nome evento: estadia |
+Periodo do evento: 25/9/2020(13.00)-15/10/2020(14.00) | Periodo de analisado: 25/9/2020-15/10/2020 
+Faturacao: 755.30 euros
+
+O Estudio 34 possui uma faturacao de 2002.00 euros
+------------------------------------------------------------------------------------------------------------------------------

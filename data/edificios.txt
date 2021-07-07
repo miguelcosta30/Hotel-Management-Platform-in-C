@@ -1,0 +1,4 @@
+1,PF Boavista,41.162392,-9.655714,Avenida da Boavista,0.6
+2,PF Riberia,51.140416,-6.612434,Cais da Ribeira,0.3
+3,PF Norte,31.15,-8.61024,Rua do Norte,0.4
+4,PF Santa Catarina,39.14638,-10.60705,Rua Santa Catarina,0.5

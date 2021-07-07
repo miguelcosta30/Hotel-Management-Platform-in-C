@@ -1,0 +1,21 @@
+Relatorio de Ocupacao do Estudio 34
+Periodo do relatorio: 1/1/2020 - 7/1/2021
+
+ID Evento: 26 | ID Client: 27 | Nome cliente: Tiago Silva | Nome evento: estadia |
+Periodo do evento: 16/10/2020(12.30)-20/10/2020(14.00) | Periodo de analisado: 16/10/2020-20/10/2020 
+Ocupacao: 4 dias
+
+ID Evento: 25 | ID Client: 30 | Nome cliente: Bruno | Nome evento: estadia |
+Periodo do evento: 1/1/2021(12.30)-30/1/2021(14.00) | Periodo de analisado: 1/1/2021-7/1/2021 
+Ocupacao: 6 dias
+
+ID Evento: 6 | ID Client: 6 | Nome cliente: Cristiano Ronaldo | Nome evento: estadia |
+Periodo do evento: 30/11/2020(14.00)-12/12/2020(14.00) | Periodo de analisado: 30/11/2020-12/12/2020 
+Ocupacao: 13 dias
+
+ID Evento: 12 | ID Client: 5 | Nome cliente: Tiago Rodrigues | Nome evento: estadia |
+Periodo do evento: 25/9/2020(13.00)-15/10/2020(14.00) | Periodo de analisado: 25/9/2020-15/10/2020 
+Ocupacao: 21 dias
+
+O Estudio 34 possui uma taxa de ocupacao de 11.83 %
+------------------------------------------------------------------------------------------------------------------------------

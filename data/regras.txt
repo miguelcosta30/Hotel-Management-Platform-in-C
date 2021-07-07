@@ -1,0 +1,11 @@
+1,Estudio mais caro ao fim-de-semana(+)
+2,Estudio com vista para o mar(Estudio luxuoso)(+)
+3,Estudio Piscina Interior(+)
+4,Estudio mais barato ao fim de x semanas(-)
+5,Estudio e duplex/possui terraco(+)
+6,Estudio mais caro em epocas altas(+)
+7,Estudio mais barato se a reserva for feita com antecedencia(-)
+
+
+
+
